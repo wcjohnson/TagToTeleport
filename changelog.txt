@@ -1,0 +1,44 @@
+---------------------------------------------------------------------------------------------------
+Version: 1.1.1
+Date: 2020-12-17
+  Bugfixes:
+    - Update to 1.1
+---------------------------------------------------------------------------------------------------
+Version: 1.1.0
+Date: 2020-01-30
+  Bugfixes:
+    - Update to 0.18
+---------------------------------------------------------------------------------------------------
+Version: 1.0.3
+Date: 2019-06-02
+  Bugfixes:
+    - the global sometimes not exists, probably fixed
+---------------------------------------------------------------------------------------------------
+Version: 1.0.2
+Date: 2019-05-03
+  Bugfixes:
+    - Resolved compatibility issues with Factorio 0.17.35
+---------------------------------------------------------------------------------------------------
+Version: 1.0.1
+Date: 2019-04-10
+  Bugfixes:
+    - When renaming a saved teleport location, the new name was showing as an old name.
+---------------------------------------------------------------------------------------------------
+Version: 1.0.0
+Date: 2019-03-31
+  Changes:
+    - Removed an option to teleport a specific player by typing their name into tag name.
+    - Up to 10 teleport locations can now be saved, the name of tag has to start with a digit that is used as an identifier (e.g. '1 Refinery', '2: Iron', '3 - Train Station' or just '4').
+    - Added keyboard shortcuts that allow to teleport to these locations, by default CTRL + [0-9].
+---------------------------------------------------------------------------------------------------
+Version: 0.0.2
+Date: ?
+  Changes:
+    - Added own icon; better graphics.
+  Bugfixes:
+    - Improved targeting: now you cannot be teleported into water.
+---------------------------------------------------------------------------------------------------
+Version: 0.0.1
+Date: ?
+  Info:
+    - First release.
